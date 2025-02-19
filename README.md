@@ -1,4 +1,4 @@
-# Django Deployment with Gunicorn, Nginx, and PostgreSQL
+# Django Chat Application Deployment using Gunicorn and Nginx
 
 ## Prerequisites
 
